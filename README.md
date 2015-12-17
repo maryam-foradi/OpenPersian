@@ -8,6 +8,6 @@ German Alignment:
 http://sosol.perseids.org/exist/rest/db/app/align-editsentence-perseids.xhtml?doc=24204&s=1
 
 Treebanking:
-http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24205&s=1&direction=rtl&lang=misc
-http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24206&s=1&direction=rtl&lang=misc
-http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24207&s=1&direction=rtl&lang=misc
+# http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24205&s=1&direction=rtl&lang=misc
+# http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24206&s=1&direction=rtl&lang=misc
+# http://www.perseids.org/tools/arethusa/app/#/perseids?doc=24207&s=1&direction=rtl&lang=misc
